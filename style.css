@@ -1,6 +1,11 @@
 body {
   background-color: lightgray;
 }
+
 p {
   background-color: lightblue;
+}
+
+.second-text {
+  background-color: red;
 }
